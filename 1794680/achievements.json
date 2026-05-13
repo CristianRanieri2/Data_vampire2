@@ -1,0 +1,974 @@
+{
+  "Banish10Items": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Banish20Items": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Banish40Items": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Banish80Items": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "BuyGlassMask": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CastForbiddenBox": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteAdv_AGarlicParadise": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteAdv_ToEndAnIceAge": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteAdv_WorldOfLightAndDark": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "CompleteCollection": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Dark_01SpaceDude": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Dark_03Gazebo": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Dark_05Appunta": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Dark_06Darkasso": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Dark_10Santa": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Dark_12Shemoon": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Dark_13Chula": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Dark_18Challenge": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Dark_21Robert": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Defeat0EnemiesInCoop": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Defeat100KEnemies": {
+    "earned": true,
+    "earned_time": 1778287815
+  },
+  "Defeat100kWithSigma": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Defeat3000Buers": {
+    "earned": true,
+    "earned_time": 1778271519
+  },
+  "Defeat3000Hydra": {
+    "earned": true,
+    "earned_time": 1778368886
+  },
+  "Defeat3000Milk": {
+    "earned": true,
+    "earned_time": 1778526621
+  },
+  "Defeat3000Skeletons": {
+    "earned": true,
+    "earned_time": 1778262821
+  },
+  "Defeat5000Enemies": {
+    "earned": true,
+    "earned_time": 1778259936
+  },
+  "Defeat6000StageKillers": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DefeatBossChapel": {
+    "earned": true,
+    "earned_time": 1778372084
+  },
+  "DefeatBossChapel2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DefeatBossLibrary": {
+    "earned": true,
+    "earned_time": 1778269228
+  },
+  "DefeatBossMadForest": {
+    "earned": true,
+    "earned_time": 1778262821
+  },
+  "DefeatBossPlant": {
+    "earned": true,
+    "earned_time": 1778319404
+  },
+  "DefeatBossTower": {
+    "earned": true,
+    "earned_time": 1778366194
+  },
+  "DefeatManyBats": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "DefeatShootingEnemies": {
+    "earned": true,
+    "earned_time": 1778419643
+  },
+  "Destroy20Candles": {
+    "earned": true,
+    "earned_time": 1778258371
+  },
+  "Earn5000CoinsInASingleRun": {
+    "earned": true,
+    "earned_time": 1778269228
+  },
+  "Eat5PotRoast": {
+    "earned": true,
+    "earned_time": 1778259159
+  },
+  "EvolveAll": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EvolveAmmoAppalate": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EvolveAxe": {
+    "earned": true,
+    "earned_time": 1778319404
+  },
+  "EvolveBattilia": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EvolveBracelet": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EvolveCross": {
+    "earned": true,
+    "earned_time": 1778350514
+  },
+  "EvolveFireWand": {
+    "earned": true,
+    "earned_time": 1778262821
+  },
+  "EvolveGarlic": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EvolveGatti": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EvolveGlassFandango": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EvolveGuns": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EvolveJavelin": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EvolveKingBible": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EvolveKnife": {
+    "earned": true,
+    "earned_time": 1778333534
+  },
+  "EvolveLightning": {
+    "earned": true,
+    "earned_time": 1778269228
+  },
+  "EvolveMagiStone": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EvolveMagicWand": {
+    "earned": true,
+    "earned_time": 1778262821
+  },
+  "EvolveOfGaea": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EvolveOfGaea_Fix": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EvolvePentagram": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EvolvePhas3r": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EvolveRunetracer": {
+    "earned": true,
+    "earned_time": 1778526621
+  },
+  "EvolveSantaWater": {
+    "earned": true,
+    "earned_time": 1778271519
+  },
+  "EvolveShadow": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EvolveSongOfMana": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "EvolveWhip": {
+    "earned": true,
+    "earned_time": 1778315538
+  },
+  "EvolveWind": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOSC01_FindCoffin": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOSC02_Survive15Eleanor": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOSC03_GetStreamToLevel6": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOSC04_GetStrikeToLevel6": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOSC05_UniteSpells": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOSC06_Survive15Viktor": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOSC07_EvolveEskizzibur": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOSC08_Survive15Keira": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOSC09_EvolveFlashArrow": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOSC10_BreakSeal1": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOSC11_BreakSeal2": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOSC12_BreakSeal3": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOSC13_Survive15Luminaire": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOSC14_EvolvePrismatic": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOSC15_Survive15Genevieve": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOSC16_EvolveShadow": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOSC17_Defeat100kGenevieve": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOSC18_Defeat6kFairy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOSC19_Defeat6kHorror": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOSC20_DefeatBossLake": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOSC21_DefeatBossAbyss": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FOSC22_FindMap_Foscari": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindAClover": {
+    "earned": true,
+    "earned_time": 1778269228
+  },
+  "FindAParmAegis": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindARosary": {
+    "earned": true,
+    "earned_time": 1778269228
+  },
+  "FindAStoneMask": {
+    "earned": true,
+    "earned_time": 1778275298
+  },
+  "FindAVacuum": {
+    "earned": true,
+    "earned_time": 1778262821
+  },
+  "FindAnArmaDio": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindAnOrologion": {
+    "earned": true,
+    "earned_time": 1778257575
+  },
+  "FindAntidote": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindApoplexy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindAtlas": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindBraveStory": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindChaosAltemanna": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindChaosLazulia": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindChaosMalachite": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindChaosRosalia": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindChickenClock": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindCoffinStage1": {
+    "earned": true,
+    "earned_time": 1778333534
+  },
+  "FindCoffinStage2": {
+    "earned": true,
+    "earned_time": 1778350514
+  },
+  "FindCoffinStage3": {
+    "earned": true,
+    "earned_time": 1778319404
+  },
+  "FindCoffinStage4": {
+    "earned": true,
+    "earned_time": 1778419643
+  },
+  "FindCoffinStage5": {
+    "earned": true,
+    "earned_time": 1778372084
+  },
+  "FindForbiddenScroll": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindGGospel": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindGouda": {
+    "earned": true,
+    "earned_time": 1778319404
+  },
+  "FindGrimoire": {
+    "earned": true,
+    "earned_time": 1778269228
+  },
+  "FindKaromasMana": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindMagicBanger": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindManyChickens": {
+    "earned": true,
+    "earned_time": 1778599710
+  },
+  "FindManyClovers": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindManyGoldenFinger": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindManyOrologions": {
+    "earned": true,
+    "earned_time": 1778336041
+  },
+  "FindManyRosaries": {
+    "earned": true,
+    "earned_time": 1778597282
+  },
+  "FindMap_AstralStair": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindMasquerade": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindMilkyWayMap": {
+    "earned": true,
+    "earned_time": 1778316352
+  },
+  "FindRandomazzo": {
+    "earned": true,
+    "earned_time": 1778368886
+  },
+  "FindRandomazzoT06": {
+    "earned": true,
+    "earned_time": 1778368886
+  },
+  "FindRecycle": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindSorceressTears": {
+    "earned": true,
+    "earned_time": 1778366194
+  },
+  "FindTrisection": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindYellowSign": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "FindYellowSignS5": {
+    "earned": true,
+    "earned_time": 1778366194
+  },
+  "GalloDivano": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GetFireWandToLevel4": {
+    "earned": true,
+    "earned_time": 1778262821
+  },
+  "GetGarlicToLevel7": {
+    "earned": true,
+    "earned_time": 1778262821
+  },
+  "GetGlassFandangoToLevel7": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GetHolyBookToLevel4": {
+    "earned": true,
+    "earned_time": 1778258371
+  },
+  "GetHolyWaterToLevel4": {
+    "earned": true,
+    "earned_time": 1778262821
+  },
+  "GetJavelinToLevel7": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GetLightningRingToLevel4": {
+    "earned": true,
+    "earned_time": 1778269228
+  },
+  "GetMagiStoneToLevel7": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GetMagicMissileToLevel7": {
+    "earned": true,
+    "earned_time": 1778260637
+  },
+  "GetPeachoneToLevel7": {
+    "earned": true,
+    "earned_time": 1778262821
+  },
+  "GetPentagramToLevel7": {
+    "earned": true,
+    "earned_time": 1778269228
+  },
+  "GetPhas3rToLevel7": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "GetRunetracerToLevel7": {
+    "earned": true,
+    "earned_time": 1778433317
+  },
+  "GetTorroneToLevel9": {
+    "earned": true,
+    "earned_time": 1778457707
+  },
+  "GreatestJubilee": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Have6DifferentWeapons": {
+    "earned": true,
+    "earned_time": 1778258371
+  },
+  "Have6Evolutions": {
+    "earned": true,
+    "earned_time": 1778456667
+  },
+  "HitManyEnemiesWithTrain": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MOON01_FindCoffin": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MOON02_Survive15Miang": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MOON03_EvolveSilverWind": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MOON04_Survive15Menya": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MOON05_EvolveFourSeasons": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MOON06_Survive15Syuuto": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MOON07_EvolveSummonNight": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MOON08_Survive15BabiOnna": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MOON09_EvolveMirageRobe": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MOON10_Survive15McCoy": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MOON11_Defeat100kVanya": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MOON12_Defeat100kVadjouel": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MOON13_Defeat6kWater": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MOON14_FindNightSword": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MOON15_EvolveNightSword": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MOON16_DefeatBossRuins": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MOON17_EvolveBubbles": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "MOON18_FindMap_Moonspell": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ObtainAllRelics": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ObtainDarkasso": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ObtainGraciasMirror": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ObtainSeventhTrumpet": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ObtainTheCrimsonShroud": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ObtainTheInfiniteCorridor": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReachLV10": {
+    "earned": true,
+    "earned_time": 1778258371
+  },
+  "ReachLV100WithAmbrojoe": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReachLV100WithCavallo": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReachLV100WithMortaccio": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReachLV100WithOsole": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReachLV100WithRamba": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReachLV20InMadForest": {
+    "earned": true,
+    "earned_time": 1778262821
+  },
+  "ReachLV40InLibrary": {
+    "earned": true,
+    "earned_time": 1778269228
+  },
+  "ReachLV5": {
+    "earned": true,
+    "earned_time": 1778257575
+  },
+  "ReachLV60InDairyPlant": {
+    "earned": true,
+    "earned_time": 1778319404
+  },
+  "ReachLV80InverseForest": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReachLV80InverseLibrary": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReachLV80InverseTower": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReachLV80InverseWarehouse": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReachLV99WithAntonio": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReachLV99WithArca": {
+    "earned": true,
+    "earned_time": 1778372084
+  },
+  "ReachLV99WithChristine": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReachLV99WithClerici": {
+    "earned": true,
+    "earned_time": 1778605503
+  },
+  "ReachLV99WithConcetta": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReachLV99WithDommario": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReachLV99WithGennaro": {
+    "earned": true,
+    "earned_time": 1778456667
+  },
+  "ReachLV99WithGiovanna": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReachLV99WithImelda": {
+    "earned": true,
+    "earned_time": 1778368886
+  },
+  "ReachLV99WithKroci": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReachLV99WithLama": {
+    "earned": true,
+    "earned_time": 1778592395
+  },
+  "ReachLV99WithPasqualina": {
+    "earned": true,
+    "earned_time": 1778433317
+  },
+  "ReachLV99WithPoe": {
+    "earned": true,
+    "earned_time": 1778597282
+  },
+  "ReachLV99WithPoppea": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "ReachLV99WithPorta": {
+    "earned": true,
+    "earned_time": 1778580811
+  },
+  "ReachLV99WithPugnala": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Recover1000HP": {
+    "earned": true,
+    "earned_time": 1778287815
+  },
+  "See100Items": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "See50Items": {
+    "earned": true,
+    "earned_time": 1778333534
+  },
+  "See60Items": {
+    "earned": true,
+    "earned_time": 1778368886
+  },
+  "See70Items": {
+    "earned": true,
+    "earned_time": 1778580813
+  },
+  "See80Items": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "See90Items": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Survive10Minutes": {
+    "earned": true,
+    "earned_time": 1778258371
+  },
+  "Survive10MinutesWithGuns": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Survive15MinutesInBossRash": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Survive15MinutesInMolise": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Survive15MinutesInMoongolow": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Survive15MinutesWithGatti": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Survive15MinutesWithGuns": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Survive15MinutesWithShadow": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Survive15MinutesWithSong": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Survive15MinutesWithWind": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Survive1Minute": {
+    "earned": true,
+    "earned_time": 1778257575
+  },
+  "Survive20Minutes": {
+    "earned": true,
+    "earned_time": 1778262821
+  },
+  "Survive20MinutesInLaborratory": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Survive20MinutesInSpace54": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Survive20MinutesWithCross": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Survive20MinutesWithCurse": {
+    "earned": true,
+    "earned_time": 1778333534
+  },
+  "Survive20minutesInWestwoods": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Survive30MinutesInBoneZone": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Survive30MinutesInGreenAcres": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Survive30MinutesWithAxe": {
+    "earned": true,
+    "earned_time": 1778592395
+  },
+  "Survive31MinutesInDairyPlant": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Survive31MinutesInForest": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Survive31MinutesInLibrary": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Survive31MinutesInTower": {
+    "earned": false,
+    "earned_time": 0
+  },
+  "Survive5MinutesWithDiamond": {
+    "earned": true,
+    "earned_time": 1778433317
+  },
+  "Survive5MinutesWithKnife": {
+    "earned": true,
+    "earned_time": 1778456667
+  },
+  "SurviveUntilTheEndOfWhiteout": {
+    "earned": true,
+    "earned_time": 1778523834
+  },
+  "UniteBirds": {
+    "earned": true,
+    "earned_time": 1778333534
+  },
+  "Unlock2Hypers": {
+    "earned": true,
+    "earned_time": 1778269231
+  },
+  "Unlock3Hypers": {
+    "earned": true,
+    "earned_time": 1778262836
+  },
+  "Unlock3Hypers_Correct": {
+    "earned": true,
+    "earned_time": 1778319405
+  },
+  "Unlock4Hypers": {
+    "earned": true,
+    "earned_time": 1778366208
+  },
+  "Unlock5Hypers": {
+    "earned": true,
+    "earned_time": 1778372115
+  }
+}
