@@ -768,8 +768,8 @@
     "earned_time": 0
   },
   "ReachLV99WithDommario": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778719881
   },
   "ReachLV99WithGennaro": {
     "earned": true,
