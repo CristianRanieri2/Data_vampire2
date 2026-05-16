@@ -184,8 +184,8 @@
     "earned_time": 1778262821
   },
   "EvolveGarlic": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778889994
   },
   "EvolveGatti": {
     "earned": false,
@@ -204,8 +204,8 @@
     "earned_time": 0
   },
   "EvolveKingBible": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778888637
   },
   "EvolveKnife": {
     "earned": true,
@@ -832,8 +832,8 @@
     "earned_time": 1778580813
   },
   "See80Items": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778889994
   },
   "See90Items": {
     "earned": false,
