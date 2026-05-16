@@ -756,8 +756,8 @@
     "earned_time": 1778372084
   },
   "ReachLV99WithChristine": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778964342
   },
   "ReachLV99WithClerici": {
     "earned": true,
