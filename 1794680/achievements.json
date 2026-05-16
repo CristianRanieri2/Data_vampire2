@@ -784,8 +784,8 @@
     "earned_time": 1778368886
   },
   "ReachLV99WithKroci": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778935600
   },
   "ReachLV99WithLama": {
     "earned": true,
@@ -896,8 +896,8 @@
     "earned_time": 0
   },
   "Survive20MinutesWithCross": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1778935600
   },
   "Survive20MinutesWithCurse": {
     "earned": true,
