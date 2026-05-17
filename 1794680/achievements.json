@@ -108,8 +108,8 @@
     "earned_time": 1778259936
   },
   "Defeat6000StageKillers": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779054803
   },
   "DefeatBossChapel": {
     "earned": true,
@@ -160,8 +160,8 @@
     "earned_time": 0
   },
   "EvolveAmmoAppalate": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779049446
   },
   "EvolveAxe": {
     "earned": true,
@@ -232,8 +232,8 @@
     "earned_time": 0
   },
   "EvolvePentagram": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779054803
   },
   "EvolvePhas3r": {
     "earned": false,
@@ -836,8 +836,8 @@
     "earned_time": 1778889994
   },
   "See90Items": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779046907
   },
   "Survive10Minutes": {
     "earned": true,
