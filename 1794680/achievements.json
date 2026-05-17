@@ -776,8 +776,8 @@
     "earned_time": 1778456667
   },
   "ReachLV99WithGiovanna": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779056690
   },
   "ReachLV99WithImelda": {
     "earned": true,
@@ -816,8 +816,8 @@
     "earned_time": 1778287815
   },
   "See100Items": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779055553
   },
   "See50Items": {
     "earned": true,
@@ -860,8 +860,8 @@
     "earned_time": 0
   },
   "Survive15MinutesWithGatti": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779056690
   },
   "Survive15MinutesWithGuns": {
     "earned": true,
