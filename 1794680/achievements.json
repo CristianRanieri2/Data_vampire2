@@ -196,8 +196,8 @@
     "earned_time": 0
   },
   "EvolveGuns": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779213132
   },
   "EvolveJavelin": {
     "earned": false,
@@ -748,8 +748,8 @@
     "earned_time": 0
   },
   "ReachLV99WithAntonio": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779217184
   },
   "ReachLV99WithArca": {
     "earned": true,
