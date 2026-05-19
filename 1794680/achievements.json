@@ -1,7 +1,7 @@
 {
   "Banish10Items": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779150523
   },
   "Banish20Items": {
     "earned": false,
@@ -800,8 +800,8 @@
     "earned_time": 1778597282
   },
   "ReachLV99WithPoppea": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779150523
   },
   "ReachLV99WithPorta": {
     "earned": true,
@@ -872,8 +872,8 @@
     "earned_time": 0
   },
   "Survive15MinutesWithSong": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779150523
   },
   "Survive15MinutesWithWind": {
     "earned": false,
