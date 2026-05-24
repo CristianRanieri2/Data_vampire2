@@ -16,8 +16,8 @@
     "earned_time": 0
   },
   "BuyGlassMask": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779645335
   },
   "CastForbiddenBox": {
     "earned": false,
@@ -464,8 +464,8 @@
     "earned_time": 1778599710
   },
   "FindManyClovers": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779641633
   },
   "FindManyGoldenFinger": {
     "earned": false,
@@ -852,8 +852,8 @@
     "earned_time": 0
   },
   "Survive15MinutesInMolise": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779644728
   },
   "Survive15MinutesInMoongolow": {
     "earned": false,
@@ -876,8 +876,8 @@
     "earned_time": 1779150523
   },
   "Survive15MinutesWithWind": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779640083
   },
   "Survive1Minute": {
     "earned": true,
