@@ -136,8 +136,8 @@
     "earned_time": 1778366194
   },
   "DefeatManyBats": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779622228
   },
   "DefeatShootingEnemies": {
     "earned": true,
@@ -168,8 +168,8 @@
     "earned_time": 1778319404
   },
   "EvolveBattilia": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779632657
   },
   "EvolveBracelet": {
     "earned": false,
@@ -188,8 +188,8 @@
     "earned_time": 1778889994
   },
   "EvolveGatti": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779619723
   },
   "EvolveGlassFandango": {
     "earned": false,
@@ -252,8 +252,8 @@
     "earned_time": 0
   },
   "EvolveSongOfMana": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779632657
   },
   "EvolveWhip": {
     "earned": true,
@@ -696,24 +696,24 @@
     "earned_time": 1778258371
   },
   "ReachLV100WithAmbrojoe": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779635068
   },
   "ReachLV100WithCavallo": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779629718
   },
   "ReachLV100WithMortaccio": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779628369
   },
   "ReachLV100WithOsole": {
     "earned": false,
     "earned_time": 0
   },
   "ReachLV100WithRamba": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779632657
   },
   "ReachLV20InMadForest": {
     "earned": true,
@@ -764,8 +764,8 @@
     "earned_time": 1778605503
   },
   "ReachLV99WithConcetta": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779616023
   },
   "ReachLV99WithDommario": {
     "earned": true,
@@ -868,8 +868,8 @@
     "earned_time": 1779042523
   },
   "Survive15MinutesWithShadow": {
-    "earned": false,
-    "earned_time": 0
+    "earned": true,
+    "earned_time": 1779616023
   },
   "Survive15MinutesWithSong": {
     "earned": true,
